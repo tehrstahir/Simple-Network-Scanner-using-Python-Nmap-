@@ -8,7 +8,7 @@ This script performs a basic network scan using:
 ## Requirements
 - Python 3
 - Nmap (`sudo apt install nmap`)
-- Linux OS
+- Kali Linux OS
 
 ## How to Run
 # in bash
