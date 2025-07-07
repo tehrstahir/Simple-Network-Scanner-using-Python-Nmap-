@@ -1,4 +1,4 @@
-# 🔍 Simple Python Network Scanner
+#  Simple Python Network Scanner
 
 ## Description
 This script performs a basic network scan using:
