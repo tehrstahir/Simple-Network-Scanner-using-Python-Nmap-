@@ -1,0 +1,8 @@
+# NMAP+PYTHON TASK
+- KEY FUNCTIONALITIES:
+* Should run on linux
+* Should only use python and nmap without any specific windows command
+* Should scan the entire ip range
+* Detect which devices are online using a ping scan and save their data
+* For online IPs, check for open ports 22, 80, 443 (Limit Ports)
+* Use Nmap to identify services and versions and display the results in the terminal and save the file as 'results.txt' too.
